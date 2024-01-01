@@ -1,5 +1,5 @@
 ---
-title: "Allan Lab - Home"
+title: "ANR-LOCImm - Home"
 layout: homelay
 excerpt: "ANR-LOCImm &rarr; ICM."
 sitemap: false
