@@ -1,7 +1,7 @@
 ---
 title: "News"
 layout: textlay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "Dr Agusti Alentorn at Paris Brain Institute (ICM)."
 sitemap: false
 permalink: /allnews.html
 ---
