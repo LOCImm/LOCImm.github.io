@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Publications"
+title: "ANR-LOCImm - Publications"
 layout: gridlay
-excerpt: "Allan Lab -- Publications."
+excerpt: "ANR-LOCImm -- Publications."
 sitemap: false
 permalink: /publications/
 ---
