@@ -1,7 +1,7 @@
 ---
 title: "Allan Lab - Home"
 layout: homelay
-excerpt: "Allan Lab at Leiden University &rarr; LMU."
+excerpt: "ANR-LOCImm &rarr; ICM."
 sitemap: false
 permalink: /
 ---
