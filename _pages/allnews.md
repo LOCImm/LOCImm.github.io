@@ -1,7 +1,7 @@
 ---
 title: "News"
 layout: textlay
-excerpt: "Dr Agusti Alentorn at Paris Brain Institute (ICM)."
+excerpt: "ANR-LOCImm."
 sitemap: false
 permalink: /allnews.html
 ---
