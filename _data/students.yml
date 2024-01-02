@@ -8,18 +8,21 @@
 #  education3:
 #  education4:
 
-- name: Ilse Kuijf 
+- name: Noémie Barillot (2020-)
   photo: rock.jpg
-  info: Master student
-  email: m.ortego.larrazabal@umail.leidenuniv.nl
+  info: PhD student at Sorbonne Univeristy (Paris, FR)
+  phd: Deep learning analysis in digital pathology
+  supervisors: A. Alentorn
+  email: name.surname (at) icm-institute.org
   number_educ: 0
   education1:
 
-- name: Tessa Van der Ent
+- name: Lucas Rincón de la Rosa (2023-)
   photo: rock.jpg
-  info: Master student
-  email: m.ortego.larrazabal@umail.leidenuniv.nl
+  info: PhD student at Paeis Saclay University (Paris, FR)
+  phd: Deep learning models to analyze brain tumors
+  supervisors: A. Alentorn
+  email: name.surname (at) icm-institute.org
   number_educ: 0
   education1:
-
 
