@@ -26,5 +26,5 @@ If you are interested in pursuing a Master degree at Sorbonne University. Someti
 
 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/DSC_0696.jpg" width="95%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/IMG_0016.jpeg" width="95%">
 </figure>
