@@ -62,6 +62,6 @@ We are insterested in the analysis of a rare brain tumor, Primary Central Nervou
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/IMG_0008.png" style="width: 120px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/IMG_0010.png" style="width: 110px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NWO.jpg" style="width: 120px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/IMG_0011.png" style="width: 110px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="width: 110px">
 </figure>
