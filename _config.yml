@@ -11,7 +11,7 @@ email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   Website of the ANR-LOCImm project.
 baseurl: ""
-url: ""
+url: "https://locimm.github.io"
 
 include:
   - .htaccess
