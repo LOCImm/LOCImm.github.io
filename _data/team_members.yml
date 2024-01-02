@@ -10,7 +10,7 @@
   education4: 
   education5: 
 
-  - name: Khê Hoang-Xuan
+- name: Khê Hoang-Xuan
   photo: rock.jpg
   info: Professor and senior neurologist, ICM, Pitié-Salpêtrière Hospital
   email: name.surname (at) aphp.fr
@@ -22,7 +22,7 @@
   education4: 
   education5: 
 
-  - name: Karima Mokhtari
+- name: Karima Mokhtari
   photo: rock.jpg
   info: PI and senior neuropathologist, ICM, Pitié-Salpêtrière Hospital
   email: name.surname (at) aphp.fr
@@ -34,7 +34,7 @@
   education4: 
   education5: 
 
-  - name: Caroline Houillier
+- name: Caroline Houillier
   photo: rock.jpg
   info: senior neurologist, Pitié-Salpêtrière Hospital
   email: name.surname (at) aphp.fr
@@ -46,7 +46,7 @@
   education4: 
   education5: 
 
-    - name: Isaias Hernández-Verdin
+ - name: Isaias Hernández-Verdin
   photo: rock.jpg
   info: postdoctorate, ICM
   email: name.surname (at) aphp.fr
