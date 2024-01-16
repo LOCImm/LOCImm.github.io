@@ -17,6 +17,8 @@ Our central hypothesis is that variations in tumor cell states and TME organizat
 This proposal includes three complementary and multidisciplinary objectives aimed at 
 
   **1) Characterizing the immune landscape at the single-cell level**
+  
   **2) Improving prognostic and predictive markers**
+  
   **3) Proposing a mechanistic analysis by examining the different molecular subtypes of PCNSL.**
 
