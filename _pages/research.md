@@ -6,7 +6,7 @@ sitemap: false
 permalink: /research/
 ---
 
-# Research
+# Research - LOCImm project
 
 Primary central nervous system lymphoma (PCNSL) is defined as a diffuse large B-cell lymphoma (DLBCL) occurring exclusively in the brain, spinal cord, leptomeninges, or eye, according to the new World Health Organization (WHO) classification of central nervous system tumors. PCNSLs have distinct characteristics that set them apart from nodal DLBCLs. Due to their rarity, molecular characterization has been limited to a small number of samples, and the involvement of the tumor microenvironment (TME) in disease progression and/or treatment response has remained unknown. 
 
