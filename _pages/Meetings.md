@@ -1,9 +1,9 @@
 ---
-title: "Domino"
+title: "Meetings"
 layout: gridlay
-excerpt: "AI Chair OceaniX - Domino"
+excerpt: "AI Chair OceaniX - Meetings"
 sitemap: false
-permalink: /domino
+permalink: /Meetings
 ---
 
 # Domino
