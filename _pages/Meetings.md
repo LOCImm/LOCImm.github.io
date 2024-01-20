@@ -8,7 +8,7 @@ permalink: /Meetings
 
 # Multimodal journal club
 
-Multimodal is a journal club to discuss papers of interest while eating pizzas.
+Multimodal is a journal club to discuss papers of interest.
 <!--**Zoom conference for session on Nov. 25**: [link](https://zoom.us/j/94354512890?pwd=cHNCMlVISVRnZjFuN29TV2d2a1R3UT09)-->
 
 ## Some tips on Multimodal journal club sessions and reading groups: 
