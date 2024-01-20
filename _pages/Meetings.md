@@ -3,7 +3,7 @@ title: "Meetings"
 layout: gridlay
 excerpt: "AI Chair OceaniX - Meetings"
 sitemap: false
-permalink: /Meetings
+permalink: /domino
 ---
 
 # Multimodal journal club
