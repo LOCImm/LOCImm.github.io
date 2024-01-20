@@ -1,7 +1,7 @@
 ---
 title: "Meetings"
 layout: gridlay
-excerpt: "AI Chair OceaniX - Meetings"
+excerpt: "ANR-LOCImm -- Meetings"
 sitemap: false
 permalink: /Meetings
 ---
