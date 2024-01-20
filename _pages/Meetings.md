@@ -1,6 +1,6 @@
 ---
 title: "Meetings"
-layout: gridlay
+layout: textlay
 excerpt: "ANR-LOCImm -- Meetings"
 sitemap: false
 permalink: /Meetings
