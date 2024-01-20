@@ -32,7 +32,7 @@ Multimodal is a journal club to discuss papers of interest.
  <div class="well">
   <pubtit>{{ Meetings.title }}</pubtit>
   <p>{{ Meetings.date }} <br> </p>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/domino_pic/{{ domino.image }}" class="img-responsive" width="33%" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/{{ domino.image }}" class="img-responsive" width="33%" style="float: left" />
   <p>{{ Meetings.description }}</p>
   <p><em>{{ Meetings.authors }}</em></p>
   <p><strong><a href="{{ Meetings.link.url }}">{{ Meetings.link.display }}</a></strong></p>
@@ -76,7 +76,7 @@ Multimodal is a journal club to discuss papers of interest.
  <div class="well">
   <pubtit>{{ Meetings.title }}</pubtit>
   <p>{{ Meetings.date }} <br></p>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/domino_pic/{{ domino.image }}" class="img-responsive" width="33%" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/{{ domino.image }}" class="img-responsive" width="33%" style="float: left" />
   <p>{{ Meetings.description }}</p>
   <p><em>{{ Meetings.authors }}</em></p>
   <p><strong><a href="{{ Meetings.link.url }}">{{ Meetings.link.display }}</a></strong></p>
