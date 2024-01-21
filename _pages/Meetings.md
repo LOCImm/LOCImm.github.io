@@ -8,7 +8,7 @@ permalink: /Meetings
 
 # Webinars
 
-## 1) Multimodal journal club**
+## 1) Multimodal journal club
 - We discuss once a **multimodal analysis article**.
 
 ## Some tips on Multimodal sessions and reading groups: 
