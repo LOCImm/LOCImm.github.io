@@ -10,7 +10,7 @@ permalink: /3D_pre-clinical
 
 3D pre-clinical is a journal club around the analysis and brainstorming of 3D data in animal models with brain tumors.
 
-## List of coming Multimodal journal club session
+## List of coming 3D pre-clinical sessions
 
 *Work in progress*
 
