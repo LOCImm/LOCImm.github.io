@@ -7,8 +7,9 @@ permalink: /Meetings
 ---
 
 
-
-&nbsp;   &nbsp;   &nbsp;
+<p> &nbsp; </p>
+<p> &nbsp; </p>
+<p> &nbsp; </p>
 
 
 ### Multimodal journal club
