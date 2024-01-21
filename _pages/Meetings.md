@@ -58,7 +58,7 @@ permalink: /Meetings
 
 <p> &nbsp; </p>
 
-## 3D pre-clinical
+## <u>3D pre-clinical</u>
 
 3D pre-clinical is a journal club around the analysis and brainstorming of 3D data in animal models with brain tumors.
 
