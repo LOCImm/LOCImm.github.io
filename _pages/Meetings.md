@@ -7,7 +7,7 @@ permalink: /Meetings
 ---
 
 
-# Multimodal journal club
+## Multimodal journal club
 
 Multimodal is a journal club to discuss papers of interest.
 
