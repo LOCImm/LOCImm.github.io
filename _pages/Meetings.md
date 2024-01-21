@@ -58,8 +58,13 @@ permalink: /Meetings
 
 <p> &nbsp; </p>
 
+## 3D pre-clinical
 
-## List of previous Multimodal journal club session
+3D pre-clinical is a journal club around the analysis and brainstorming of 3D data in animal models with brain tumors.
+
+## List of coming 3D pre-clinical sessions
+
+*Work in progress*
 
 {% assign number_printed = 0 %}
 {% for Meetings in site.data.Meetingslist %}
