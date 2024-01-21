@@ -8,9 +8,12 @@ permalink: /Meetings
 
 # Webinars
 
-In the context of AI Chair Oceanix and AI4OAC project, we organize a webinar every third Wednesday of the month, starting in October 2020. When possible, additional links with a video record of the webinar will be provided.
+**1) Multimodal journal club**
+     We discuss once a multimodal analysis article.
 
-**Zoom link for Herve Claustre's webinar, June 15, 2pm**: [link](https://imt-atlantique.zoom.us/j/5513937378?pwd=L3pRYlFiODZOeG9paWMvZXE5Z2pZQT09)
+## Some tips on Multimodal sessions and reading groups: 
+- **For the "Guru" to lead a Domino session**: [link](http://muratbuffalo.blogspot.fr/2015/05/how-to-run-effective-paper-reading.html)
+- **For all**: [link](http://muratbuffalo.blogspot.fr/2013/07/how-i-read-research-paper.html)
 
 ## List of coming Multimodal journal club session
 
