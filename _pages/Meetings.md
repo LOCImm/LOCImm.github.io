@@ -6,8 +6,6 @@ sitemap: false
 permalink: /Meetings
 ---
 
-## Multimodal journal club
-
 Multimodal is a journal club to discuss papers of interest.
 
 - **For the "Guru" to lead a Multimodal journal club session**: [link](http://muratbuffalo.blogspot.fr/2015/05/how-to-run-effective-paper-reading.html)
