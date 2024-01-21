@@ -6,10 +6,11 @@ sitemap: false
 permalink: /Meetings
 ---
 
-Multimodal is a journal club to discuss papers of interest.
+# Webinars
 
-- **For the "Guru" to lead a Multimodal journal club session**: [link](http://muratbuffalo.blogspot.fr/2015/05/how-to-run-effective-paper-reading.html)
-- **For all**: [link](http://muratbuffalo.blogspot.fr/2013/07/how-i-read-research-paper.html)
+In the context of AI Chair Oceanix and AI4OAC project, we organize a webinar every third Wednesday of the month, starting in October 2020. When possible, additional links with a video record of the webinar will be provided.
+
+**Zoom link for Herve Claustre's webinar, June 15, 2pm**: [link](https://imt-atlantique.zoom.us/j/5513937378?pwd=L3pRYlFiODZOeG9paWMvZXE5Z2pZQT09)
 
 ## List of coming Multimodal journal club session
 
