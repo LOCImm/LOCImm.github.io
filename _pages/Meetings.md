@@ -6,10 +6,9 @@ sitemap: false
 permalink: /Meetings
 ---
 
-
-<p> &nbsp; </p>
-<p> &nbsp; </p>
-<p> &nbsp; </p>
+{% include line1 %}
+{% include line2 %}
+{% include line3 %}
 
 
 ### Multimodal journal club
