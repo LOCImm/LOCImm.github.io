@@ -8,11 +8,11 @@ permalink: /Meetings
 
 # Webinars
 
-**1) Multimodal journal club**
-     We discuss once a multimodal analysis article.
+## 1) Multimodal journal club**
+- We discuss once a **multimodal analysis article**.
 
 ## Some tips on Multimodal sessions and reading groups: 
-- **For the "Guru" to lead a Domino session**: [link](http://muratbuffalo.blogspot.fr/2015/05/how-to-run-effective-paper-reading.html)
+- **For the "Guru" to lead a Multimodal session**: [link](http://muratbuffalo.blogspot.fr/2015/05/how-to-run-effective-paper-reading.html)
 - **For all**: [link](http://muratbuffalo.blogspot.fr/2013/07/how-i-read-research-paper.html)
 
 ## List of coming Multimodal journal club session
