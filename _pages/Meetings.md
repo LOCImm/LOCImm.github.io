@@ -9,7 +9,7 @@ permalink: /Meetings
 # Webinars
 
 ## <u>Multimodal journal club</u>
-- We discuss once a **multimodal analysis article**.
+- We discuss a **multimodal analysis article**.
 
 ### Some tips on Multimodal sessions and reading groups: 
 - **For the "Guru" to lead a Multimodal session**: [link](http://muratbuffalo.blogspot.fr/2015/05/how-to-run-effective-paper-reading.html)
