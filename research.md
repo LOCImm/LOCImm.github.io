@@ -34,17 +34,17 @@ The **RENOCLIP-LOC network**, approved by the [National Cancer Institute (INCa)]
 
 The LOC network was created in 2011, as part of the 2009-2013 Cancer Plan. It is a national medical expert network, recognized and funded by the National Cancer Institute (INCa). Its objective is to improve the management of and research into primary lymphomas of the central nervous system (primary cerebral and/or intra-ocular lymphomas), which represent a rare form of adult tumour. The network consists of a national expert centre in Ile de France, at the Pitié-Salpêtrière Hospital in Paris and the René Huguenin Hospital/Institut Curie in Saint Cloud, and twenty regional expert centres throughout France.
 
-For more information: https://www.reseauloc.org/
+For more information: [https://www.reseauloc.org/](https://www.reseauloc.org/)
  
 ### POLA National Expert Network dedicated to the management of High-Grade Oligodendroglial Tumours
 
 The POLA Network aims to improve the management of and research on certain brain tumours (anaplastic oligodendrogliomas, anaplastic oligoastrocytomas, grade IV oligoastrocytomas with necrosis, and glioblastomas with an oligodendroglial component) that are rare tumours in adults. This Network is funded by both the [National Cancer Institute (INCa)](https://en.e-cancer.fr) and the [National League Against Cancer](https://www.ligue-cancer.net).
 
-For more information: https://www.reseau-pola.org/
+For more information: [https://www.reseau-pola.org/](https://www.reseau-pola.org/)
 
 ### ANOCEF (Association des Neuro-Oncologues d'expression Française)
 
 Our teams also belong to ANOCEF.
 
-For more information: https://www.anocef.org
+For more information: [https://www.anocef.org](https://www.anocef.org)
 
