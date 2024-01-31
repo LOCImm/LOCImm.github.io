@@ -11,7 +11,7 @@
   news1: 
   news2:
 
-- title: "Single cell analysis with iDISCO"
+- title: "Single cell analysis with iDISCO (3D pre-clinical discussions)"
   image: IMG_0049.gif
   description: 3D analysis using iDISCO pipeline in Python (different steps: pre-analysis, cell density, vascular, etc).
   ClearMapGui
@@ -21,6 +21,6 @@
     url: https://github.com/ChristophKirst/ClearMap2
     display: ClearMap analysis
   highlight: 1
-  codetype: 2
+  codetype: 1
   news1: 
   news2:
