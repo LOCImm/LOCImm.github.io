@@ -64,8 +64,6 @@ permalink: /Meetings
 
 ## List of coming 3D pre-clinical sessions
 
-*Work in progress*
-
 {% assign number_printed = 0 %}
 {% for Meetings in site.data.Meetingslist %}
 
