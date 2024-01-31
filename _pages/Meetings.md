@@ -65,11 +65,11 @@ permalink: /Meetings
 ### List of 3D pre-clinical brain tumors meetings
 
 {% assign number_printed = 0 %}
-{% for webinar in site.data.webinarlist %}
+{% for Meetings in site.data.Meetingslist %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
-{% if webinar.highlight == 1 %}
-{% if webinar.codetype == 1 %}
+{% if Meetings.highlight == 1 %}
+{% if Meetings.codetype == 1 %}
 
 {% if even_odd == 0 %}
 <div class="row">
@@ -77,17 +77,17 @@ permalink: /Meetings
 
 <div class="col-sm-6 clearfix">
  <div class="well">
-  <pubtit>{{ webinar.title }}</pubtit>
-  <p>{{ webinar.date }} <br></p>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/webinarpic/{{ webinar.image }}" class="img-responsive" width="33%" style="float: left" />
-  <p>{{ webinar.description }}</p>
-  <p><em>{{ webinar.authors }}</em></p>
-  <p><strong><a href="{{ webinar.link.url }}">{{ webinar.link.display }}</a></strong></p>
-  <p class="text-danger"><strong> {{ webinar.news1 }}</strong></p>
-  <p> {{ webinar.news2 }}</p>
-  <p><strong><a href="{{ webinar.recordlink.url }}">{{ webinar.recordlink.display }}</a></strong></p>
-  <p><strong><a href="{{ webinar.slideslink.url1 }}">{{ webinar.slideslink.display1 }}</a></strong></p>
-  <p><strong><a href="{{ webinar.slideslink.url2 }}">{{ webinar.slideslink.display2 }}</a></strong></p>
+  <pubtit>{{ Meetings.title }}</pubtit>
+  <p>{{ Meetings.date }} <br></p>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ Meetings.image }}" class="img-responsive" width="33%" style="float: left" />
+  <p>{{ Meetings.description }}</p>
+  <p><em>{{ Meetings.authors }}</em></p>
+  <p><strong><a href="{{ Meetings.link.url }}">{{ Meetings.link.display }}</a></strong></p>
+  <p class="text-danger"><strong> {{ Meetings.news1 }}</strong></p>
+  <p> {{ Meetings.news2 }}</p>
+  <p><strong><a href="{{ Meetings.recordlink.url }}">{{ Meetings.recordlink.display }}</a></strong></p>
+  <p><strong><a href="{{ Meetings.slideslink.url1 }}">{{ Meetings.slideslink.display1 }}</a></strong></p>
+  <p><strong><a href="{{ Meetings.slideslink.url2 }}">{{ Meetings.slideslink.display2 }}</a></strong></p>
  </div>
 </div>
 
