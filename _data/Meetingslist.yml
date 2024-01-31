@@ -12,7 +12,7 @@
   news2:
 
 - title: "Single cell analysis with iDISCO"
-  image: Image_Lucas_0001.png
+  image: IMG_0049.gif
   description: 3D analysis using iDISCO pipeline in Python (different steps: pre-analysis, cell density, vascular, etc).
   ClearMapGui
   date: 2024/01/31
