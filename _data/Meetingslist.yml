@@ -7,7 +7,7 @@
     url: https://arxiv.org/abs/2304.06819
     display: arXiv:2304.06819
   highlight: 1
-  codetype: 1
+  codetype: 2
   news1: 
   news2:
 
@@ -20,6 +20,6 @@
     url: https://github.com/ChristophKirst/ClearMap2
     display: ClearMap analysis
   highlight: 1
-  codetype: 2
+  codetype: 1
   news1: 
   news2:
