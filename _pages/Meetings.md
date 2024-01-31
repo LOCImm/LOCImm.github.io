@@ -10,7 +10,7 @@ permalink: /Meetings
 
 ## <u>Multimodal journal club and 3D pre-clinical discussions</u>
 - We discuss a **multimodal analysis article**.
-- In the 3D pre-clinical discussion we discuss methods and new approaches to analyze 3D brain tumor data.
+- In the 3D pre-clinical meetings we discuss methods and new approaches to analyze 3D brain tumor data.
 
 ### Some tips on Multimodal sessions and reading groups: 
 - **For the "Guru" to lead a Multimodal session**: [link](http://muratbuffalo.blogspot.fr/2015/05/how-to-run-effective-paper-reading.html)
