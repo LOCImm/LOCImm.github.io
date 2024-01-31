@@ -65,11 +65,11 @@ permalink: /Meetings
 ## List of coming 3D pre-clinical sessions
 
 {% assign number_printed = 0 %}
-{% for Meetings in site.data.Meetingslist %}
+{% for webinar in site.data.webinarlist %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
-{% if Meetings.highlight == 1 %}
-{% if Meetings.codetype == 1 %}
+{% if webinar.highlight == 1 %}
+{% if webinar.codetype == 2 %}
 
 {% if even_odd == 0 %}
 <div class="row">
@@ -77,14 +77,17 @@ permalink: /Meetings
 
 <div class="col-sm-6 clearfix">
  <div class="well">
-  <pubtit>{{ Meetings.title }}</pubtit>
-  <p>{{ Meetings.date }} <br></p>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ Meetings.image }}" class="img-responsive" width="33%" style="float: left" />
-  <p>{{ Meetings.description }}</p>
-  <p><em>{{ Meetings.authors }}</em></p>
-  <p><strong><a href="{{ Meetings.link.url }}">{{ Meetings.link.display }}</a></strong></p>
-  <p class="text-danger"><strong> {{ Meetings.news1 }}</strong></p>
-  <p> {{ Meetings.news2 }}</p>
+  <pubtit>{{ webinar.title }}</pubtit>
+  <p>{{ webinar.date }} <br> </p>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/webinarpic/{{ webinar.image }}" class="img-responsive" width="33%" style="float: left" />
+  <p>{{ webinar.description }}</p>
+  <p><em>{{ webinar.authors }}</em></p>
+  <p><strong><a href="{{ webinar.link.url }}">{{ webinar.link.display }}</a></strong></p>
+  <p class="text-danger"><strong> {{ webinar.news1 }}</strong></p>
+  <p> {{ webinar.news2 }}</p>
+  <p><strong><a href="{{ webinar.zoomlink.url }}">{{ webinar.zoomlink.display }}</a></strong></p>
+  <p> {{ webinar.zoomlink.ID }}</p>
+  <p> {{ webinar.zoomlink.Passcode }}</p>
  </div>
 </div>
 
@@ -102,4 +105,3 @@ permalink: /Meetings
 {% if even_odd == 1 %}
 </div>
 {% endif %}
-
