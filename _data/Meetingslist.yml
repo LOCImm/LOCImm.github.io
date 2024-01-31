@@ -13,7 +13,7 @@
 
 - title: "Single cell analysis with iDISCO (3D pre-clinical discussions)"
   image: IMG_0049.gif
-  description: 3D analysis using iDISCO pipeline in Python (different steps: pre-analysis, cell density, vascular, etc). ClearMapGui library with all the different steps to analyze in a Python environment the iDISCO data.
+  description: 3D analysis using iDISCO pipeline in Python (pre-analysis, cell density, vascular network analysis, etc). ClearMapGui library with all the different steps to analyze in a Python environment the iDISCO data
   date: 2024/01/31
   authors: Charly Rousseau
   link: 
