@@ -10,3 +10,17 @@
   codetype: 2
   news1: 
   news2:
+
+- title: "Single cell analysis with iDISCO"
+  image: Image_Lucas_0001.png
+  description: 3D analysis using iDISCO pipeline in Python (different steps: pre-analysis, cell density, vascular, etc).
+  ClearMapGui
+  date: 2024/01/31
+  authors: Charly Rousseau
+  link: 
+    url: https://github.com/ChristophKirst/ClearMap2
+    display: ClearMap analysis
+  highlight: 1
+  codetype: 1
+  news1: 
+  news2:
