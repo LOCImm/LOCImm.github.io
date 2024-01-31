@@ -8,14 +8,15 @@ permalink: /Meetings
 
 # Webinars
 
-## <u>Multimodal journal club</u>
+## <u>Multimodal journal club and 3D pre-clinical discussions</u>
 - We discuss a **multimodal analysis article**.
+- In the 3D pre-clinical discussion we discuss methods and new approaches to analyze 3D brain tumor data.
 
 ### Some tips on Multimodal sessions and reading groups: 
 - **For the "Guru" to lead a Multimodal session**: [link](http://muratbuffalo.blogspot.fr/2015/05/how-to-run-effective-paper-reading.html)
 - **For all**: [link](http://muratbuffalo.blogspot.fr/2013/07/how-i-read-research-paper.html)
 
-### List of coming Multimodal journal club session
+### List of coming Multimodal journal club session and 3D pre-clinical discussion
 
 {% assign number_printed = 0 %}
 {% for Meetings in site.data.Meetingslist %}
@@ -57,51 +58,3 @@ permalink: /Meetings
 {% endif %}
 
 <p> &nbsp; </p>
-
-## <u>3D pre-clinical</u>
-
-- 3D pre-clinical is a journal club around the analysis and brainstorming of 3D data in animal models with brain tumors.
-
-### List of coming 3D pre-clinical sessions
-
-{% assign number_printed = 0 %}
-{% for webinar in site.data.webinarlist %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
-{% if webinar.highlight == 1 %}
-{% if webinar.codetype == 2 %}
-
-{% if even_odd == 0 %}
-<div class="row">
-{% endif %}
-
-<div class="col-sm-6 clearfix">
- <div class="well">
-  <pubtit>{{ webinar.title }}</pubtit>
-  <p>{{ webinar.date }} <br> </p>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/webinarpic/{{ webinar.image }}" class="img-responsive" width="33%" style="float: left" />
-  <p>{{ webinar.description }}</p>
-  <p><em>{{ webinar.authors }}</em></p>
-  <p><strong><a href="{{ webinar.link.url }}">{{ webinar.link.display }}</a></strong></p>
-  <p class="text-danger"><strong> {{ webinar.news1 }}</strong></p>
-  <p> {{ webinar.news2 }}</p>
-  <p><strong><a href="{{ webinar.zoomlink.url }}">{{ webinar.zoomlink.display }}</a></strong></p>
-  <p> {{ webinar.zoomlink.ID }}</p>
-  <p> {{ webinar.zoomlink.Passcode }}</p>
- </div>
-</div>
-
-{% assign number_printed = number_printed | plus: 1 %}
-
-{% if even_odd == 1 %}
-</div>
-{% endif %}
-
-{% endif %}
-{% endif %}
-{% endfor %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
-{% if even_odd == 1 %}
-</div>
-{% endif %}
