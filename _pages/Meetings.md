@@ -59,7 +59,7 @@ permalink: /Meetings
 
 <p> &nbsp; </p>
 
-## <u>3D pre-clinical discussions</u>
+## <u>3D pre-clinical brain tumor meeting</u>
 - In the 3D pre-clinical meetings we discuss methods and new approaches to analyze 3D brain tumor data.
 
 ### List of 3D pre-clinical brain tumors meetings
