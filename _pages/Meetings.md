@@ -22,7 +22,7 @@ permalink: /Meetings
 
 {% assign even_odd = number_printed | modulo: 2 %}
 {% if Meetings.highlight == 1 %}
-{% if Meetings.codetype == 2 %}
+{% if Meetings.codetype == 1 %}
 
 {% if even_odd == 0 %}
 <div class="row">
@@ -69,7 +69,7 @@ permalink: /Meetings
 
 {% assign even_odd = number_printed | modulo: 2 %}
 {% if webinar.highlight == 1 %}
-{% if webinar.codetype == 1 %}
+{% if webinar.codetype == 2 %}
 
 {% if even_odd == 0 %}
 <div class="row">
