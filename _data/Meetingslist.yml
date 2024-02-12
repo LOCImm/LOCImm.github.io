@@ -11,6 +11,19 @@
   news1: 
   news2:
 
+- title: "Artificial Intelligence for Multimodal Data Integration in Oncology"
+  image: Image_Lucas_0001.png
+  description: A comprehensive review of methods to perform multi-modal analysis (omics and imaging) using deep learning in oncology  
+  date: 2024/02/23
+  authors: Noémie Barillot
+  link: 
+    url: https://www.cell.com/cancer-cell/fulltext/S1535-6108(22)00441-X
+    display: Cancer cell 2022
+  highlight: 1
+  codetype: 2
+  news1: 
+  news2:
+
 - title: "Single cell analysis with iDISCO (3D pre-clinical discussions)"
   image: IMG_0049.gif
   description: 3D analysis using iDISCO pipeline in Python (pre-analysis, cell density, vascular network analysis, etc). ClearMapGui library with all the different steps to analyze in a Python environment the iDISCO data
