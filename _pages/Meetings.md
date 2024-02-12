@@ -11,7 +11,6 @@ permalink: /Meetings
 ## <u>Multimodal journal club and 3D pre-clinical discussions</u>
 - We discuss a **multimodal analysis article**.
 
-
 ### Some tips on Multimodal sessions and reading groups: 
 - **For the "Guru" to lead a Multimodal session**: [link](http://muratbuffalo.blogspot.fr/2015/05/how-to-run-effective-paper-reading.html)
 - **For all**: [link](http://muratbuffalo.blogspot.fr/2013/07/how-i-read-research-paper.html)
